@@ -5,7 +5,7 @@ Long answer: It's 58.3% Improved, check the list of what It remains to be comple
 
 | Status | Item | What happend? | Temporary Solution | Youtube's response
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
-| Half failed | No sending cease & desist to good youtube app modifications | Youtube/Google sent cease and desist to youtube vanced back in march 2022 | Use alternatives, Use YouTube Revanced or get YouTube Premium | YouTube unfortunately continued with these cease and desist by making discord unverify music bots with youtube in it causing Soul Music and FredBoat
+| Half failed | No sending cease & desist to good youtube app modifications | Youtube/Google sent cease and desist to youtube vanced back in march 2022 | Use alternatives, Use YouTube Revanced or get YouTube Premium | YouTube unfortunately continued with these legal nonsense by making discord unverify music bots with youtube in it causing Soul Music and FredBoat
 | Sucess | Custom URL for all channels | Unfortunately, the requirements of Customs url are 100 subscribers | Use any free domain or ones that you own | Youtube released handles that is better than custom urls
 | Waiting... | Date added (oldest) | Youtube recently removed the Date added (oldest) | Search using date in any youtube channel like this "* before:YYYY-MM-DD" | Youtube removed this option because of some problems and they said that they're going to bring this feature back ([Source](https://twitter.com/TeamYouTube/status/1589568910197760002))
 | Waiting... | No unskippable ads | In august 2007, YouTube started to show video ads | Same in the first one | No Response for now
