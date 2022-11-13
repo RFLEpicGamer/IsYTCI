@@ -22,6 +22,14 @@ Vidlii, bitview, peertube and More, but, we recommend without crypto or blockcha
 
 We reccomend alternatives that we mentioned in the 1st section of faq if you want to avoid copyright notice
 
-## 3. Chrome is removing the MV2 extensions
+## 3. Chrome is removing the MV2 extensions, what to do?
 
 If you want to continue using adblockers, we recommend using another browser like firefox, librewolf, waterfox, and all others firefox forks
+
+## 4. Who are the people behind of this simple project?
+
+RFLEpicGamer
+
+## 5. Do this project have any social medias
+
+Yes, on twitter or tumblr we're @IsYTCI, but if you just prefer rss, [copy this link into rss client](https://isytci.tumblr.com/rss)
